@@ -270,7 +270,7 @@ body{
 }
 
 .background{
-    background: rgba(0, 0, 0, 0.8) url('/poster.png');
+    background: rgba(0, 0, 0, 0.8) url('/main.png');
     background-size: cover;
     background-blend-mode: darken;
 }
